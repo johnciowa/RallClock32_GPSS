@@ -5,7 +5,7 @@ android {
     compileSdkVersion 21
 
     defaultConfig {
-        applicationId "com.javacodegeeks.android.androidtimerexample"
+        applicationId "javacodegeeks.android.jcc_rally_timer"
         minSdkVersion 21
         targetSdkVersion 21
     }
@@ -34,6 +34,6 @@ android {
 }
 
 dependencies {
-    implementation 'com.android.support:support-v4:18.0.0'
+//    implementation 'com.android.support:support-v4:18.0.0'
     implementation 'com.android.support.constraint:constraint-layout:1.1.0'
 }

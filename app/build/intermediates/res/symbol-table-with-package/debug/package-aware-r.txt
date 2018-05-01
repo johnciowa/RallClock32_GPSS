@@ -1,4 +1,4 @@
-com.javacodegeeks.android.androidtimerexample
+javacodegeeks.android.jcc_rally_timer
 int attr barrierAllowsGoneWidgets 0x7f010000
 int attr barrierDirection 0x7f010001
 int attr chainUseRtl 0x7f010002

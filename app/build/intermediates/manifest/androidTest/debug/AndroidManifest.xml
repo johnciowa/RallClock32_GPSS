@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.javacodegeeks.android.androidtimerexample.test">
+    package="javacodegeeks.android.jcc_rally_timer.test">
 
     <uses-sdk android:minSdkVersion="21" android:targetSdkVersion="21" />
 
@@ -9,8 +9,8 @@
     </application>
 
     <instrumentation android:name="android.test.InstrumentationTestRunner"
-                     android:targetPackage="com.javacodegeeks.android.androidtimerexample"
+                     android:targetPackage="javacodegeeks.android.jcc_rally_timer"
                      android:handleProfiling="false"
                      android:functionalTest="false"
-                     android:label="Tests for com.javacodegeeks.android.androidtimerexample"/>
+                     android:label="Tests for javacodegeeks.android.jcc_rally_timer"/>
 </manifest>

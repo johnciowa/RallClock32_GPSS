@@ -662,61 +662,61 @@ public final class R {
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_maxHeight android:maxHeight}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minWidth android:minWidth}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintLayout_Layout_android_minHeight android:minHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets com.javacodegeeks.android.androidtimerexample:barrierAllowsGoneWidgets}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection com.javacodegeeks.android.androidtimerexample:barrierDirection}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl com.javacodegeeks.android.androidtimerexample:chainUseRtl}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet com.javacodegeeks.android.androidtimerexample:constraintSet}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids com.javacodegeeks.android.androidtimerexample:constraint_referenced_ids}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight com.javacodegeeks.android.androidtimerexample:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth com.javacodegeeks.android.androidtimerexample:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator com.javacodegeeks.android.androidtimerexample:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf com.javacodegeeks.android.androidtimerexample:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle com.javacodegeeks.android.androidtimerexample:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle com.javacodegeeks.android.androidtimerexample:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius com.javacodegeeks.android.androidtimerexample:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio com.javacodegeeks.android.androidtimerexample:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf com.javacodegeeks.android.androidtimerexample:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf com.javacodegeeks.android.androidtimerexample:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator com.javacodegeeks.android.androidtimerexample:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf com.javacodegeeks.android.androidtimerexample:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf com.javacodegeeks.android.androidtimerexample:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf com.javacodegeeks.android.androidtimerexample:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf com.javacodegeeks.android.androidtimerexample:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator com.javacodegeeks.android.androidtimerexample:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf com.javacodegeeks.android.androidtimerexample:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf com.javacodegeeks.android.androidtimerexample:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX com.javacodegeeks.android.androidtimerexample:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY com.javacodegeeks.android.androidtimerexample:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom com.javacodegeeks.android.androidtimerexample:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd com.javacodegeeks.android.androidtimerexample:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft com.javacodegeeks.android.androidtimerexample:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight com.javacodegeeks.android.androidtimerexample:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart com.javacodegeeks.android.androidtimerexample:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop com.javacodegeeks.android.androidtimerexample:layout_goneMarginTop}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel com.javacodegeeks.android.androidtimerexample:layout_optimizationLevel}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierAllowsGoneWidgets javacodegeeks.android.jcc_rally_timer:barrierAllowsGoneWidgets}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_barrierDirection javacodegeeks.android.jcc_rally_timer:barrierDirection}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_chainUseRtl javacodegeeks.android.jcc_rally_timer:chainUseRtl}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraintSet javacodegeeks.android.jcc_rally_timer:constraintSet}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_constraint_referenced_ids javacodegeeks.android.jcc_rally_timer:constraint_referenced_ids}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedHeight javacodegeeks.android.jcc_rally_timer:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constrainedWidth javacodegeeks.android.jcc_rally_timer:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_creator javacodegeeks.android.jcc_rally_timer:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf javacodegeeks.android.jcc_rally_timer:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_creator javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toBottomOf javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintBottom_toTopOf javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircle javacodegeeks.android.jcc_rally_timer:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleAngle javacodegeeks.android.jcc_rally_timer:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintCircleRadius javacodegeeks.android.jcc_rally_timer:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintDimensionRatio javacodegeeks.android.jcc_rally_timer:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toEndOf javacodegeeks.android.jcc_rally_timer:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintEnd_toStartOf javacodegeeks.android.jcc_rally_timer:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_begin javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_end javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintGuide_percent javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_default javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_max javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_min javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHeight_percent javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_bias javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintHorizontal_weight javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_creator javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toLeftOf javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintLeft_toRightOf javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_creator javacodegeeks.android.jcc_rally_timer:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toLeftOf javacodegeeks.android.jcc_rally_timer:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintRight_toRightOf javacodegeeks.android.jcc_rally_timer:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toEndOf javacodegeeks.android.jcc_rally_timer:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintStart_toStartOf javacodegeeks.android.jcc_rally_timer:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_creator javacodegeeks.android.jcc_rally_timer:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toBottomOf javacodegeeks.android.jcc_rally_timer:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintTop_toTopOf javacodegeeks.android.jcc_rally_timer:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_bias javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_chainStyle javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintVertical_weight javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_default javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_max javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_min javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_constraintWidth_percent javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteX javacodegeeks.android.jcc_rally_timer:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_editor_absoluteY javacodegeeks.android.jcc_rally_timer:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginBottom javacodegeeks.android.jcc_rally_timer:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginEnd javacodegeeks.android.jcc_rally_timer:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginLeft javacodegeeks.android.jcc_rally_timer:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginRight javacodegeeks.android.jcc_rally_timer:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginStart javacodegeeks.android.jcc_rally_timer:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_goneMarginTop javacodegeeks.android.jcc_rally_timer:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_Layout_layout_optimizationLevel javacodegeeks.android.jcc_rally_timer:layout_optimizationLevel}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_Layout_android_orientation
      * @see #ConstraintLayout_Layout_android_maxWidth
@@ -866,17 +866,17 @@ public final class R {
      */
     public static final int ConstraintLayout_Layout_android_minHeight=4;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#barrierAllowsGoneWidgets}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#barrierAllowsGoneWidgets}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:barrierAllowsGoneWidgets
+     * @attr name javacodegeeks.android.jcc_rally_timer:barrierAllowsGoneWidgets
      */
     public static final int ConstraintLayout_Layout_barrierAllowsGoneWidgets=5;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#barrierDirection}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#barrierDirection}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -893,21 +893,21 @@ public final class R {
      * <tr><td>top</td><td>2</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:barrierDirection
+     * @attr name javacodegeeks.android.jcc_rally_timer:barrierDirection
      */
     public static final int ConstraintLayout_Layout_barrierDirection=6;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#chainUseRtl}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#chainUseRtl}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:chainUseRtl
+     * @attr name javacodegeeks.android.jcc_rally_timer:chainUseRtl
      */
     public static final int ConstraintLayout_Layout_chainUseRtl=7;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#constraintSet}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#constraintSet}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -915,50 +915,50 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:constraintSet
+     * @attr name javacodegeeks.android.jcc_rally_timer:constraintSet
      */
     public static final int ConstraintLayout_Layout_constraintSet=8;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#constraint_referenced_ids}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#constraint_referenced_ids}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:constraint_referenced_ids
+     * @attr name javacodegeeks.android.jcc_rally_timer:constraint_referenced_ids
      */
     public static final int ConstraintLayout_Layout_constraint_referenced_ids=9;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constrainedHeight
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constrainedHeight
      */
     public static final int ConstraintLayout_Layout_layout_constrainedHeight=10;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constrainedWidth
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constrainedWidth
      */
     public static final int ConstraintLayout_Layout_layout_constrainedWidth=11;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintBaseline_creator
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintBaseline_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_creator=12;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -974,20 +974,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintBaseline_toBaselineOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBaseline_toBaselineOf=13;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_creator
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_creator=14;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1003,11 +1003,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_toBottomOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toBottomOf=15;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1023,11 +1023,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_toTopOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintBottom_toTopOf=16;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1035,20 +1035,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintCircle
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintCircle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircle=17;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintCircleAngle
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintCircleAngle
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleAngle=18;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1057,21 +1057,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintCircleRadius
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintCircleRadius
      */
     public static final int ConstraintLayout_Layout_layout_constraintCircleRadius=19;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintDimensionRatio
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintDimensionRatio
      */
     public static final int ConstraintLayout_Layout_layout_constraintDimensionRatio=20;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1087,11 +1087,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintEnd_toEndOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toEndOf=21;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1107,11 +1107,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintEnd_toStartOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintEnd_toStartOf=22;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1120,11 +1120,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_begin
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_begin
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_begin=23;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1133,20 +1133,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_end
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_end
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_end=24;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_percent
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintGuide_percent=25;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -1160,11 +1160,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_default
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_default=26;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1181,11 +1181,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_max
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_max=27;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1202,29 +1202,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_min
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_min=28;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_percent
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintHeight_percent=29;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_bias
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_bias=30;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -1238,29 +1238,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_chainStyle
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_chainStyle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_weight
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintHorizontal_weight=32;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_creator
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_creator=33;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1276,11 +1276,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_toLeftOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toLeftOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1296,20 +1296,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_toRightOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintLeft_toRightOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintRight_creator
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintRight_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_creator=36;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1325,11 +1325,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintRight_toLeftOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toLeftOf=37;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1345,11 +1345,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintRight_toRightOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintRight_toRightOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintRight_toRightOf=38;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1365,11 +1365,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintStart_toEndOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintStart_toEndOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toEndOf=39;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1385,20 +1385,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintStart_toStartOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintStart_toStartOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintStart_toStartOf=40;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintTop_creator
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintTop_creator
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_creator=41;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1414,11 +1414,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintTop_toBottomOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toBottomOf=42;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1434,20 +1434,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintTop_toTopOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintTop_toTopOf
      */
     public static final int ConstraintLayout_Layout_layout_constraintTop_toTopOf=43;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_bias
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_bias
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_bias=44;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -1461,20 +1461,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_chainStyle
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_chainStyle=45;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_weight
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_weight
      */
     public static final int ConstraintLayout_Layout_layout_constraintVertical_weight=46;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -1488,11 +1488,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_default
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_default
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_default=47;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1509,11 +1509,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_max
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_max
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_max=48;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1530,20 +1530,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_min
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_min
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_min=49;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_percent
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_percent
      */
     public static final int ConstraintLayout_Layout_layout_constraintWidth_percent=50;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1552,11 +1552,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_editor_absoluteX
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_editor_absoluteX
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteX=51;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1565,11 +1565,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_editor_absoluteY
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_editor_absoluteY
      */
     public static final int ConstraintLayout_Layout_layout_editor_absoluteY=52;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1578,11 +1578,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginBottom
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginBottom
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginBottom=53;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1591,11 +1591,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginEnd
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginEnd
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginEnd=54;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1604,11 +1604,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginLeft
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginLeft
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginLeft=55;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1617,11 +1617,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginRight
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginRight
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginRight=56;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1630,11 +1630,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginStart
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginStart
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginStart=57;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -1643,11 +1643,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginTop
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginTop
      */
     public static final int ConstraintLayout_Layout_layout_goneMarginTop=58;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_optimizationLevel}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_optimizationLevel}
      * attribute's value can be found in the {@link #ConstraintLayout_Layout} array.
      *
      * <p>Must be one or more (separated by '|') of the following constant values.</p>
@@ -1664,7 +1664,7 @@ public final class R {
      * <tr><td>standard</td><td>3</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_optimizationLevel
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_optimizationLevel
      */
     public static final int ConstraintLayout_Layout_layout_optimizationLevel=59;
     /**
@@ -1674,8 +1674,8 @@ public final class R {
      * <colgroup align="left" />
      * <colgroup align="left" />
      * <tr><th>Attribute</th><th>Description</th></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_content com.javacodegeeks.android.androidtimerexample:content}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility com.javacodegeeks.android.androidtimerexample:emptyVisibility}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_content javacodegeeks.android.jcc_rally_timer:content}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintLayout_placeholder_emptyVisibility javacodegeeks.android.jcc_rally_timer:emptyVisibility}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintLayout_placeholder_content
      * @see #ConstraintLayout_placeholder_emptyVisibility
@@ -1684,7 +1684,7 @@ public final class R {
         0x7f010005, 0x7f010006
       };
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#content}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#content}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -1692,11 +1692,11 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:content
+     * @attr name javacodegeeks.android.jcc_rally_timer:content
      */
     public static final int ConstraintLayout_placeholder_content=0;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#emptyVisibility}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#emptyVisibility}
      * attribute's value can be found in the {@link #ConstraintLayout_placeholder} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -1709,7 +1709,7 @@ public final class R {
      * <tr><td>invisible</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:emptyVisibility
+     * @attr name javacodegeeks.android.jcc_rally_timer:emptyVisibility
      */
     public static final int ConstraintLayout_placeholder_emptyVisibility=1;
     /**
@@ -1742,55 +1742,55 @@ public final class R {
      * <tr><td><code>{@link #ConstraintSet_android_layout_marginEnd android:layout_marginEnd}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_translationZ android:translationZ}</code></td><td></td></tr>
      * <tr><td><code>{@link #ConstraintSet_android_elevation android:elevation}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight com.javacodegeeks.android.androidtimerexample:layout_constrainedHeight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth com.javacodegeeks.android.androidtimerexample:layout_constrainedWidth}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator com.javacodegeeks.android.androidtimerexample:layout_constraintBaseline_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf com.javacodegeeks.android.androidtimerexample:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle com.javacodegeeks.android.androidtimerexample:layout_constraintCircle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle com.javacodegeeks.android.androidtimerexample:layout_constraintCircleAngle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius com.javacodegeeks.android.androidtimerexample:layout_constraintCircleRadius}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio com.javacodegeeks.android.androidtimerexample:layout_constraintDimensionRatio}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf com.javacodegeeks.android.androidtimerexample:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf com.javacodegeeks.android.androidtimerexample:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_begin}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_end}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator com.javacodegeeks.android.androidtimerexample:layout_constraintRight_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf com.javacodegeeks.android.androidtimerexample:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf com.javacodegeeks.android.androidtimerexample:layout_constraintRight_toRightOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf com.javacodegeeks.android.androidtimerexample:layout_constraintStart_toEndOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf com.javacodegeeks.android.androidtimerexample:layout_constraintStart_toStartOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator com.javacodegeeks.android.androidtimerexample:layout_constraintTop_creator}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf com.javacodegeeks.android.androidtimerexample:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf com.javacodegeeks.android.androidtimerexample:layout_constraintTop_toTopOf}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_bias}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_weight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_default}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_max}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_min}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_percent}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX com.javacodegeeks.android.androidtimerexample:layout_editor_absoluteX}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY com.javacodegeeks.android.androidtimerexample:layout_editor_absoluteY}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom com.javacodegeeks.android.androidtimerexample:layout_goneMarginBottom}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd com.javacodegeeks.android.androidtimerexample:layout_goneMarginEnd}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft com.javacodegeeks.android.androidtimerexample:layout_goneMarginLeft}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight com.javacodegeeks.android.androidtimerexample:layout_goneMarginRight}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart com.javacodegeeks.android.androidtimerexample:layout_goneMarginStart}</code></td><td></td></tr>
-     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop com.javacodegeeks.android.androidtimerexample:layout_goneMarginTop}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedHeight javacodegeeks.android.jcc_rally_timer:layout_constrainedHeight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constrainedWidth javacodegeeks.android.jcc_rally_timer:layout_constrainedWidth}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_creator javacodegeeks.android.jcc_rally_timer:layout_constraintBaseline_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBaseline_toBaselineOf javacodegeeks.android.jcc_rally_timer:layout_constraintBaseline_toBaselineOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_creator javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toBottomOf javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintBottom_toTopOf javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircle javacodegeeks.android.jcc_rally_timer:layout_constraintCircle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleAngle javacodegeeks.android.jcc_rally_timer:layout_constraintCircleAngle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintCircleRadius javacodegeeks.android.jcc_rally_timer:layout_constraintCircleRadius}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintDimensionRatio javacodegeeks.android.jcc_rally_timer:layout_constraintDimensionRatio}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toEndOf javacodegeeks.android.jcc_rally_timer:layout_constraintEnd_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintEnd_toStartOf javacodegeeks.android.jcc_rally_timer:layout_constraintEnd_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_begin javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_begin}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_end javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_end}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintGuide_percent javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_default javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_max javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_min javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHeight_percent javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_bias javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_chainStyle javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintHorizontal_weight javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_creator javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toLeftOf javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintLeft_toRightOf javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_creator javacodegeeks.android.jcc_rally_timer:layout_constraintRight_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toLeftOf javacodegeeks.android.jcc_rally_timer:layout_constraintRight_toLeftOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintRight_toRightOf javacodegeeks.android.jcc_rally_timer:layout_constraintRight_toRightOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toEndOf javacodegeeks.android.jcc_rally_timer:layout_constraintStart_toEndOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintStart_toStartOf javacodegeeks.android.jcc_rally_timer:layout_constraintStart_toStartOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_creator javacodegeeks.android.jcc_rally_timer:layout_constraintTop_creator}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toBottomOf javacodegeeks.android.jcc_rally_timer:layout_constraintTop_toBottomOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintTop_toTopOf javacodegeeks.android.jcc_rally_timer:layout_constraintTop_toTopOf}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_bias javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_bias}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_chainStyle javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_chainStyle}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintVertical_weight javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_weight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_default javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_default}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_max javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_max}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_min javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_min}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_constraintWidth_percent javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_percent}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteX javacodegeeks.android.jcc_rally_timer:layout_editor_absoluteX}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_editor_absoluteY javacodegeeks.android.jcc_rally_timer:layout_editor_absoluteY}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginBottom javacodegeeks.android.jcc_rally_timer:layout_goneMarginBottom}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginEnd javacodegeeks.android.jcc_rally_timer:layout_goneMarginEnd}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginLeft javacodegeeks.android.jcc_rally_timer:layout_goneMarginLeft}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginRight javacodegeeks.android.jcc_rally_timer:layout_goneMarginRight}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginStart javacodegeeks.android.jcc_rally_timer:layout_goneMarginStart}</code></td><td></td></tr>
+     * <tr><td><code>{@link #ConstraintSet_layout_goneMarginTop javacodegeeks.android.jcc_rally_timer:layout_goneMarginTop}</code></td><td></td></tr>
      * </table>
      * @see #ConstraintSet_android_orientation
      * @see #ConstraintSet_android_id
@@ -2189,36 +2189,36 @@ public final class R {
      */
     public static final int ConstraintSet_android_elevation=22;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constrainedHeight}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constrainedHeight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constrainedHeight
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constrainedHeight
      */
     public static final int ConstraintSet_layout_constrainedHeight=23;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constrainedWidth}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constrainedWidth}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a boolean value, such as "<code>true</code>" or
      * "<code>false</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constrainedWidth
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constrainedWidth
      */
     public static final int ConstraintSet_layout_constrainedWidth=24;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintBaseline_creator}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintBaseline_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintBaseline_creator
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintBaseline_creator
      */
     public static final int ConstraintSet_layout_constraintBaseline_creator=25;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintBaseline_toBaselineOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintBaseline_toBaselineOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2234,20 +2234,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintBaseline_toBaselineOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintBaseline_toBaselineOf
      */
     public static final int ConstraintSet_layout_constraintBaseline_toBaselineOf=26;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintBottom_creator}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintBottom_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_creator
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_creator
      */
     public static final int ConstraintSet_layout_constraintBottom_creator=27;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintBottom_toBottomOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintBottom_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2263,11 +2263,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_toBottomOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toBottomOf=28;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintBottom_toTopOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintBottom_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2283,11 +2283,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintBottom_toTopOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintBottom_toTopOf
      */
     public static final int ConstraintSet_layout_constraintBottom_toTopOf=29;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintCircle}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintCircle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2295,20 +2295,20 @@ public final class R {
      * attribute in the form
      * "<code>?[<i>package</i>:]<i>type</i>/<i>name</i></code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintCircle
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintCircle
      */
     public static final int ConstraintSet_layout_constraintCircle=30;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintCircleAngle}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintCircleAngle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintCircleAngle
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintCircleAngle
      */
     public static final int ConstraintSet_layout_constraintCircleAngle=31;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintCircleRadius}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintCircleRadius}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2317,21 +2317,21 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintCircleRadius
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintCircleRadius
      */
     public static final int ConstraintSet_layout_constraintCircleRadius=32;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintDimensionRatio}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintDimensionRatio}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a string value, using '\\;' to escape characters such as
      * '\\n' or '\\uxxxx' for a unicode character;
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintDimensionRatio
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintDimensionRatio
      */
     public static final int ConstraintSet_layout_constraintDimensionRatio=33;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintEnd_toEndOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintEnd_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2347,11 +2347,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintEnd_toEndOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintEnd_toEndOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toEndOf=34;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintEnd_toStartOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintEnd_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2367,11 +2367,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintEnd_toStartOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintEnd_toStartOf
      */
     public static final int ConstraintSet_layout_constraintEnd_toStartOf=35;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintGuide_begin}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintGuide_begin}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2380,11 +2380,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_begin
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_begin
      */
     public static final int ConstraintSet_layout_constraintGuide_begin=36;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintGuide_end}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintGuide_end}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2393,20 +2393,20 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_end
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_end
      */
     public static final int ConstraintSet_layout_constraintGuide_end=37;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintGuide_percent}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintGuide_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintGuide_percent
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintGuide_percent
      */
     public static final int ConstraintSet_layout_constraintGuide_percent=38;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHeight_default}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHeight_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -2420,11 +2420,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_default
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_default
      */
     public static final int ConstraintSet_layout_constraintHeight_default=39;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHeight_max}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHeight_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2441,11 +2441,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_max
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_max
      */
     public static final int ConstraintSet_layout_constraintHeight_max=40;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHeight_min}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHeight_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2462,29 +2462,29 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_min
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_min
      */
     public static final int ConstraintSet_layout_constraintHeight_min=41;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHeight_percent}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHeight_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHeight_percent
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHeight_percent
      */
     public static final int ConstraintSet_layout_constraintHeight_percent=42;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHorizontal_bias}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHorizontal_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_bias
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_bias
      */
     public static final int ConstraintSet_layout_constraintHorizontal_bias=43;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHorizontal_chainStyle}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHorizontal_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -2498,29 +2498,29 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_chainStyle
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_chainStyle
      */
     public static final int ConstraintSet_layout_constraintHorizontal_chainStyle=44;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintHorizontal_weight}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintHorizontal_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintHorizontal_weight
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintHorizontal_weight
      */
     public static final int ConstraintSet_layout_constraintHorizontal_weight=45;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintLeft_creator}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintLeft_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_creator
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_creator
      */
     public static final int ConstraintSet_layout_constraintLeft_creator=46;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintLeft_toLeftOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintLeft_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2536,11 +2536,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_toLeftOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toLeftOf=47;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintLeft_toRightOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintLeft_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2556,20 +2556,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintLeft_toRightOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintLeft_toRightOf
      */
     public static final int ConstraintSet_layout_constraintLeft_toRightOf=48;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintRight_creator}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintRight_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintRight_creator
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintRight_creator
      */
     public static final int ConstraintSet_layout_constraintRight_creator=49;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintRight_toLeftOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintRight_toLeftOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2585,11 +2585,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintRight_toLeftOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintRight_toLeftOf
      */
     public static final int ConstraintSet_layout_constraintRight_toLeftOf=50;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintRight_toRightOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintRight_toRightOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2605,11 +2605,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintRight_toRightOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintRight_toRightOf
      */
     public static final int ConstraintSet_layout_constraintRight_toRightOf=51;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintStart_toEndOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintStart_toEndOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2625,11 +2625,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintStart_toEndOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintStart_toEndOf
      */
     public static final int ConstraintSet_layout_constraintStart_toEndOf=52;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintStart_toStartOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintStart_toStartOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2645,20 +2645,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintStart_toStartOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintStart_toStartOf
      */
     public static final int ConstraintSet_layout_constraintStart_toStartOf=53;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintTop_creator}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintTop_creator}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be an integer value, such as "<code>100</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintTop_creator
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintTop_creator
      */
     public static final int ConstraintSet_layout_constraintTop_creator=54;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintTop_toBottomOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintTop_toBottomOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2674,11 +2674,11 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintTop_toBottomOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintTop_toBottomOf
      */
     public static final int ConstraintSet_layout_constraintTop_toBottomOf=55;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintTop_toTopOf}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintTop_toTopOf}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a reference to another resource, in the form
@@ -2694,20 +2694,20 @@ public final class R {
      * <tr><td>parent</td><td>0</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintTop_toTopOf
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintTop_toTopOf
      */
     public static final int ConstraintSet_layout_constraintTop_toTopOf=56;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintVertical_bias}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintVertical_bias}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_bias
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_bias
      */
     public static final int ConstraintSet_layout_constraintVertical_bias=57;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintVertical_chainStyle}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintVertical_chainStyle}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -2721,20 +2721,20 @@ public final class R {
      * <tr><td>spread_inside</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_chainStyle
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_chainStyle
      */
     public static final int ConstraintSet_layout_constraintVertical_chainStyle=58;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintVertical_weight}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintVertical_weight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintVertical_weight
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintVertical_weight
      */
     public static final int ConstraintSet_layout_constraintVertical_weight=59;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintWidth_default}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintWidth_default}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>Must be one of the following constant values.</p>
@@ -2748,11 +2748,11 @@ public final class R {
      * <tr><td>wrap</td><td>1</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_default
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_default
      */
     public static final int ConstraintSet_layout_constraintWidth_default=60;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintWidth_max}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintWidth_max}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2769,11 +2769,11 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_max
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_max
      */
     public static final int ConstraintSet_layout_constraintWidth_max=61;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintWidth_min}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintWidth_min}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2790,20 +2790,20 @@ public final class R {
      * <tr><td>wrap</td><td>fffffffe</td><td></td></tr>
      * </table>
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_min
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_min
      */
     public static final int ConstraintSet_layout_constraintWidth_min=62;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_constraintWidth_percent}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_constraintWidth_percent}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a floating point value, such as "<code>1.2</code>".
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_constraintWidth_percent
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_constraintWidth_percent
      */
     public static final int ConstraintSet_layout_constraintWidth_percent=63;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_editor_absoluteX}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_editor_absoluteX}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2812,11 +2812,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_editor_absoluteX
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_editor_absoluteX
      */
     public static final int ConstraintSet_layout_editor_absoluteX=64;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_editor_absoluteY}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_editor_absoluteY}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2825,11 +2825,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_editor_absoluteY
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_editor_absoluteY
      */
     public static final int ConstraintSet_layout_editor_absoluteY=65;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginBottom}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginBottom}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2838,11 +2838,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginBottom
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginBottom
      */
     public static final int ConstraintSet_layout_goneMarginBottom=66;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginEnd}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginEnd}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2851,11 +2851,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginEnd
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginEnd
      */
     public static final int ConstraintSet_layout_goneMarginEnd=67;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginLeft}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginLeft}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2864,11 +2864,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginLeft
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginLeft
      */
     public static final int ConstraintSet_layout_goneMarginLeft=68;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginRight}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginRight}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2877,11 +2877,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginRight
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginRight
      */
     public static final int ConstraintSet_layout_goneMarginRight=69;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginStart}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginStart}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2890,11 +2890,11 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginStart
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginStart
      */
     public static final int ConstraintSet_layout_goneMarginStart=70;
     /**
-     * <p>This symbol is the offset where the {@link com.javacodegeeks.android.androidtimerexample.R.attr#layout_goneMarginTop}
+     * <p>This symbol is the offset where the {@link javacodegeeks.android.jcc_rally_timer.R.attr#layout_goneMarginTop}
      * attribute's value can be found in the {@link #ConstraintSet} array.
      *
      * <p>May be a dimension value, which is a floating point number appended with a
@@ -2903,7 +2903,7 @@ public final class R {
      * sp (scaled pixels based on preferred font size), in (inches), and
      * mm (millimeters).
      *
-     * @attr name com.javacodegeeks.android.androidtimerexample:layout_goneMarginTop
+     * @attr name javacodegeeks.android.jcc_rally_timer:layout_goneMarginTop
      */
     public static final int ConstraintSet_layout_goneMarginTop=71;
     /**
