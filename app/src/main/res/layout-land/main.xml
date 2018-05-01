@@ -1,0 +1,161 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff" >
+
+    <TextView
+        android:id="@+id/odoValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:paddingBottom="0dp"
+        android:paddingTop="0dp"
+        android:text="@string/odoVal"
+        android:textColor="#190707"
+        android:textSize="135sp" />
+
+    <Button
+        android:id="@+id/setCFButton"
+        android:layout_width="107dp"
+        android:layout_height="57dp"
+        android:text="@string/setCFButtonLabel"
+        android:textSize="25sp"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="13dp" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:background="#92c500"
+        android:text="@string/startButtonLabel"
+        android:textSize="35sp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignLeft="@+id/pauseButton" />
+
+    <Button
+        android:id="@+id/resetOdoButton"
+        android:layout_width="112dp"
+        android:layout_height="87dp"
+        android:layout_alignBottom="@+id/odoValue"
+        android:layout_marginBottom="27dp"
+        android:layout_toRightOf="@+id/odoValue"
+        android:text="@string/resetOdoButtonLabel"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/deccoValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/decVal"
+        android:textColor="#190707"
+        android:textSize="55sp"
+        android:layout_alignBottom="@+id/pauseButton"
+        android:layout_toLeftOf="@+id/curCASTValue" />
+
+    <Button
+        android:id="@+id/pauseButton"
+        android:layout_width="150dp"
+        android:layout_height="90dp"
+        android:background="#ffbd21"
+        android:text="@string/pauseButtonLabel"
+        android:textSize="35sp"
+        android:layout_below="@+id/CF_Value"
+        android:layout_alignRight="@+id/setCFButton"
+        android:layout_marginTop="14dp" />
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="56dp"
+        android:layout_height="61dp"
+        android:layout_above="@+id/resetOdoButton"
+        android:layout_toRightOf="@+id/odoValue"
+        android:editable="false"
+        android:ems="10"
+        android:gravity="center"
+        android:text="odo"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/pauseTimeValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignRight="@+id/TextView01"
+        android:layout_below="@+id/pauseButton"
+        android:text="@string/pauseVal"
+        android:textColor="#190707"
+        android:textSize="55sp" />
+
+    <TextView
+        android:id="@+id/TextView02"
+        android:layout_width="64dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/setCFButton"
+        android:layout_alignBottom="@+id/setCFButton"
+        android:layout_alignParentLeft="true"
+        android:editable="false"
+        android:ems="10"
+        android:gravity="center"
+        android:text="CAST"
+        android:textSize="25sp" />
+
+    <TextView
+        android:id="@+id/curCASTValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/curCAST"
+        android:textColor="#190707"
+        android:textSize="75sp"
+        android:layout_alignBaseline="@+id/pauseButton"
+        android:layout_alignBottom="@+id/pauseButton"
+        android:layout_toLeftOf="@+id/startButton"
+        android:layout_marginRight="14dp" />
+
+    <EditText
+        android:id="@+id/CAST_Value"
+        android:layout_width="104dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="phone"
+        android:layout_below="@+id/odoValue"
+        android:layout_alignLeft="@+id/pauseTimeValue"
+        android:layout_marginTop="7dp" />
+
+    <Button
+        android:id="@+id/newCASTButton"
+        android:layout_width="112dp"
+        android:layout_height="87dp"
+        android:text="@string/newCASTButtonLabel"
+        android:textSize="25sp"
+        android:layout_marginRight="18dp"
+        android:layout_above="@+id/pauseButton"
+        android:layout_toLeftOf="@+id/curCASTValue" />
+
+    <EditText
+        android:id="@+id/CF_Value"
+        android:layout_width="144dp"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:gravity="center"
+        android:inputType="phone"
+        android:layout_alignBottom="@+id/resetOdoButton"
+        android:layout_alignParentRight="true"
+        android:layout_alignLeft="@+id/setCFButton" />
+
+    <TextView
+        android:id="@+id/timerValue"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="@string/timerVal"
+        android:textColor="#190707"
+        android:textSize="35sp"
+        android:layout_above="@+id/CF_Value"
+        android:layout_toLeftOf="@+id/pauseButton" />
+
+</RelativeLayout>

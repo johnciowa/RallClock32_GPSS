@@ -1,0 +1,4 @@
+#Sat Apr 28 10:53:40 CDT 2018
+base.0=D\:\\android\\StudioProjects\\RallClock32_GPSS\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,344 @@
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/RelativeLayout1"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <TextView
+        android:id="@+id/timerValue"
+        android:layout_width="160dp"
+        android:layout_height="25dp"
+        android:gravity="center"
+        android:text="@string/timerVal"
+        android:textColor="#190707"
+        android:textSize="20sp"
+        app:layout_constraintStart_toStartOf="@+id/Avg_Speed"
+        app:layout_constraintTop_toBottomOf="@+id/curCASTValue" />
+
+    <Button
+        android:id="@+id/startButton"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="#92c500"
+        android:gravity="center"
+        android:text="@string/startButtonLabel"
+        android:textSize="35sp"
+        app:layout_constraintLeft_toLeftOf="@+id/timerValue"
+        app:layout_constraintTop_toBottomOf="@+id/timerValue" />
+
+    <TextView
+        android:id="@+id/curCASTValue"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:background="#190707"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:text="@string/curCAST"
+        android:textColor="#ffffff"
+        android:textSize="40sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView" />
+
+    <TextView
+        android:id="@+id/odo_text"
+        android:layout_width="75dp"
+        android:layout_height="45dp"
+        android:background="#ffffff"
+        android:gravity="center"
+        android:text="ODO"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#0d0d0d"
+        app:layout_constraintTop_toBottomOf="@+id/time_vary_Value"
+        tools:layout_editor_absoluteX="38dp" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="75dp"
+        android:layout_height="45dp"
+        android:background="#ffffff"
+        android:gravity="center"
+        android:text="CAS"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#0d0d0d"
+        app:layout_constraintEnd_toEndOf="@+id/CF_Value"
+        app:layout_constraintTop_toBottomOf="@+id/time_vary_Value" />
+
+    <TextView
+        android:id="@+id/odoValue"
+        android:layout_width="75dp"
+        android:layout_height="40dp"
+        android:gravity="center"
+        android:includeFontPadding="false"
+        android:text="@string/odoVal"
+        android:textColor="#190707"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toStartOf="@+id/lng"
+        app:layout_constraintTop_toBottomOf="@+id/time_vary_Value" />
+
+    <Button
+        android:id="@+id/pauseButton"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:layout_marginBottom="12dp"
+        android:background="#ffbd21"
+        android:gravity="center"
+        android:text="@string/pauseButtonLabel"
+        android:textSize="35sp"
+        app:layout_constraintBottom_toTopOf="@+id/pauseTimeValue"
+        app:layout_constraintRight_toRightOf="@+id/curCASTValue" />
+
+    <EditText
+        android:id="@+id/CAST_Value"
+        android:layout_width="138dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="8dp"
+        android:background="#e5ebef"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="CAS Value"
+        android:inputType="phone"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toStartOf="@+id/odoValue"
+        app:layout_constraintTop_toBottomOf="@+id/resetOdoButton" />
+
+
+    <Button
+        android:id="@+id/resetOdoButton"
+        android:layout_width="150dp"
+        android:layout_height="45dp"
+        android:background="#190707"
+        android:gravity="center"
+        android:text="@string/resetOdoButtonLabel"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        app:layout_constraintLeft_toLeftOf="@+id/startButton"
+        app:layout_constraintTop_toTopOf="@+id/pauseTimeValue" />
+
+    <TextView
+        android:id="@+id/pauseTimeValue"
+        android:layout_width="100dp"
+        android:layout_height="45dp"
+        android:layout_marginEnd="12dp"
+        android:layout_marginTop="12dp"
+        android:gravity="center"
+        android:text="@string/pauseVal"
+        android:textColor="#190707"
+        android:textSize="35sp"
+        app:layout_constraintEnd_toEndOf="@+id/CF_Value"
+        app:layout_constraintTop_toBottomOf="@+id/startButton" />
+
+    <Button
+        android:id="@+id/newCASTButton"
+        android:layout_width="150dp"
+        android:layout_height="50dp"
+        android:background="#0000ff"
+        android:gravity="center"
+        android:text="@string/newCASTButtonLabel"
+        android:textColor="#ffffff"
+        android:textSize="35sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/CAST_Value"
+        app:layout_constraintBottom_toBottomOf="@+id/CAST_Value"
+        app:layout_constraintStart_toEndOf="@+id/actual_time_Value" />
+
+    <TextView
+        android:id="@+id/lng"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="long"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toTopOf="@+id/exp_time_Value"
+        app:layout_constraintEnd_toEndOf="@+id/curr_Secs" />
+
+    <TextView
+        android:id="@+id/curr_Speed"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="spd"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toEndOf="@+id/pauseTimeValue"
+        app:layout_constraintTop_toTopOf="@+id/lng" />
+
+    <TextView
+        android:id="@+id/Avg_Speed"
+        android:layout_width="160dp"
+        android:layout_height="45dp"
+        android:layout_marginStart="15dp"
+        android:gravity="center"
+        android:text="avg"
+        android:textSize="35sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/curCASTValue"
+        app:layout_constraintBottom_toBottomOf="@+id/curCASTValue"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/curr_Secs"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="sec"
+        android:textSize="15sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/exp_time_Value"
+        app:layout_constraintBottom_toBottomOf="@+id/exp_time_Value"
+        app:layout_constraintEnd_toStartOf="@+id/pauseTimeValue" />
+
+    <TextView
+        android:id="@+id/deccoValue"
+        android:layout_width="100dp"
+        android:layout_height="25dp"
+        android:gravity="center"
+        android:text="@string/decVal"
+        android:textColor="#190707"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/curr_Speed"
+        app:layout_constraintTop_toBottomOf="@+id/curCASTValue" />
+
+    <TextView
+        android:id="@+id/exp_time_Value"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="exp time"
+        android:textSize="20sp"
+        app:layout_constraintEnd_toEndOf="@+id/leg_avg_spdA"
+        app:layout_constraintTop_toBottomOf="@+id/dist_Value" />
+
+    <TextView
+        android:id="@+id/actual_time_Value"
+        android:layout_width="wrap_content"
+        android:layout_height="30dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="act time"
+        android:textSize="20sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/exp_time_Value"
+        app:layout_constraintBottom_toBottomOf="@+id/exp_time_Value"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent" />
+
+    <TextView
+        android:id="@+id/time_vary_Value"
+        android:layout_width="325dp"
+        android:layout_height="50dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="time vary"
+        android:textSize="40sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <Button
+        android:id="@+id/Ck_point_Button"
+        android:layout_width="165dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="12dp"
+        android:background="#ff0099"
+        android:gravity="center"
+        android:text="LEG_CHANGE"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="@+id/CAST_Value"
+        app:layout_constraintTop_toBottomOf="@+id/newCASTButton" />
+
+    <TextView
+        android:id="@+id/Cumul_time_view"
+        android:layout_width="150dp"
+        android:layout_height="45dp"
+        android:background="#0000ff"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="cumu"
+        android:textColor="#ffffff"
+        android:textSize="35sp"
+        app:layout_constraintStart_toEndOf="@+id/actual_time_Value"
+        app:layout_constraintTop_toTopOf="@+id/Ck_point_Button" />
+
+    <TextView
+        android:id="@+id/legA_time_Vary"
+        android:layout_width="100dp"
+        android:layout_height="45dp"
+        android:background="#e11295"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="Leg A"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="@+id/Cumul_time_view"
+        app:layout_constraintTop_toBottomOf="@+id/Ck_point_Button" />
+
+    <TextView
+        android:id="@+id/leg_avg_spdA"
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:background="#e11295"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="avg"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        app:layout_constraintBaseline_toBaselineOf="@+id/leg_tot_DistA"
+        app:layout_constraintBottom_toBottomOf="@+id/leg_tot_DistA"
+        app:layout_constraintStart_toStartOf="@+id/Ck_point_Button" />
+
+    <TextView
+        android:id="@+id/leg_tot_DistA"
+        android:layout_width="60dp"
+        android:layout_height="45dp"
+        android:layout_marginTop="17dp"
+        android:background="#e11295"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="dist"
+        android:textColor="#ffffff"
+        android:textSize="25sp"
+        app:layout_constraintStart_toStartOf="@+id/dist_Value"
+        app:layout_constraintTop_toBottomOf="@+id/Ck_point_Button" />
+
+    <TextView
+        android:id="@+id/lat"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="lat"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toStartOf="@+id/dist_Value"
+        app:layout_constraintTop_toBottomOf="@+id/dist_Value" />
+
+    <TextView
+        android:id="@+id/dist_Value"
+        android:layout_width="wrap_content"
+        android:layout_height="20dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="dist"
+        android:textSize="15sp"
+        app:layout_constraintEnd_toStartOf="@+id/actual_time_Value"
+        app:layout_constraintTop_toBottomOf="@+id/leg_avg_spdA" />
+
+    <Button
+        android:id="@+id/setCFButton"
+        android:layout_width="150dp"
+        android:layout_height="25dp"
+        android:background="#ef501b"
+        android:gravity="center"
+        android:text="@string/setCFButtonLabel"
+        android:textSize="15sp"
+        app:layout_constraintStart_toStartOf="@+id/resetOdoButton"
+        app:layout_constraintTop_toTopOf="@+id/CF_Value" />
+
+    <EditText
+
+        android:id="@+id/CF_Value"
+        android:layout_width="144dp"
+        android:layout_height="25dp"
+        android:background="#e5ebef"
+        android:ems="10"
+        android:gravity="center"
+        android:hint="CAS Value"
+        android:inputType="phone"
+        android:text="@string/CF_Value"
+        android:textSize="15sp"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/curCASTValue" />
+
+
+</android.support.constraint.ConstraintLayout>
